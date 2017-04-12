@@ -14,7 +14,7 @@ All commits made before 19.04.2017, 16:00 will be accepted as part of your solut
 * Android Databinding
 * MVVM Architecture (Model-View-ViewModel)
 * RxJava
-* OkHttp
+* Retrofit
 * Picasso
 * Junit
 
