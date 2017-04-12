@@ -8,7 +8,7 @@ You should host your project on a public Github repository and break your work d
 
 Test your logic (i.e. ViewModels), UI tests are not required.
 
-All commits made before 19.04.2017, 14:00 will be accepted as part of your solution.
+All commits made before 19.04.2017, 16:00 will be accepted as part of your solution.
 
 ## Libraries/Technologies you should be using
 * Android Databinding
