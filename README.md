@@ -10,7 +10,7 @@ Test your logic (i.e. ViewModels), UI tests are not required.
 
 All commits made before 19.04.2017, 16:00 will be accepted as part of your solution.
 
-## Libraries/Technologies you should be using
+## Libraries/Technologies we want you to use
 * Android Databinding
 * MVVM Architecture (Model-View-ViewModel)
 * RxJava
